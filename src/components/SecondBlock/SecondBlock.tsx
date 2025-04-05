@@ -6,7 +6,7 @@ import Image from "next/image"
 
 export function SecondBlock() {
     return (
-        <div className="relative md:pt-40 pb-8" id="features">
+        <div className="relative p-6 md:pt-40 pb-8" id="features">
             <div className="grid max-w-5xl mx-auto md:grid-cols-2">
                 <div>
                     <Reveal>

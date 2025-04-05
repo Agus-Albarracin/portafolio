@@ -5,7 +5,7 @@ import { Slide } from "./Slide"
 
 export function GitProys() {
     return (
-        <div className="relative" id="proys">
+        <div className="relative p-6" id="proys">
             <br></br>
             <br></br>
             <div className="grid max-w-5xl gap-8 mx-auto my-6 md:grid-cols-2">

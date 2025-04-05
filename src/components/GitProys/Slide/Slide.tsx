@@ -17,7 +17,7 @@ export function Slide() {
                 678: {
                     slidesPerView: 3,
                     spaceBetween: 15
-                }
+                },
             }}
             freeMode={true}
             pagination={{
@@ -34,7 +34,7 @@ export function Slide() {
                         <div className="my-5">
                             {description}
                         </div>
-                        <div className="flex">
+                        <div className="flex p-2">
                             <Image src={image} alt={name} width="50" height="50" className="mr-5" />
                             <div>
                                 <h4 className="text-center">{name}</h4>
