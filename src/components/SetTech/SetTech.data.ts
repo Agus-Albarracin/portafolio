@@ -28,8 +28,16 @@ export const dataSetTech = [
       image: "nest.svg",
     },
     {
-      id: 10,
+      id: 8,
       image: "tailwind.svg",
+    },
+    {
+      id: 9,
+      image: "mysql.svg",
+    },
+    {
+      id: 10,
+      image: "post.svg",
     },
     {
       id: 11,
